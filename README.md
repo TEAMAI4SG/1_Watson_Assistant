@@ -1,1 +1,5 @@
-# 1_Watson_Assistant
+# 💻Watson Assistant HelloWorld
+## BUS 118I Digital Innovation
+
+---
+
