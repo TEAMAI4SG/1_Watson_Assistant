@@ -16,7 +16,7 @@
 ---
 
 ## 📚 Additional resources:
-- Watson Assistant Documentation
+- [Watson Assistant Documentation](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
 
 ---
 
