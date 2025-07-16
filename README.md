@@ -42,7 +42,7 @@
 6. A new browser tab will be opened. On the “Welcome to watsonx Assistant” page, type **“My first assistant”** under Assistant Name and click Next.
 
 ![Picture 4](screenshots/picture4.png) 
-7. On the “Personalize your assistant” page, select **“Web”** under “Tell us where your assistant will live”. Under “Which industry do you work in?”, select **“N/A (I am a student)”**. Under “What is your role on the team building the assistant?”, select **“Developer”**. Under “Which statement describes your needs best?” select **“I’m using the product to complete a course or certification”** and click Next.
+7. On the “Personalize your assistant” page, select **“Web”** under “Tell us where your assistant will live”. Under “Which industry do you work in?”, select **“N/A (I am a student)”**. Under “What is your role on the team building the assistant?”, select **“Developer”**. Under “Which statement describes your needs best?” select **“I’m using the product to complete a course or certification”** and click **Next.**
 
 ![Picture 5](screenshots/picture5.png) 
 
