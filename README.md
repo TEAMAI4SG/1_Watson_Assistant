@@ -28,20 +28,20 @@
 3. **Submit a screenshot of this screen with your profile name on the menu bar (Instead of “Esha Padmawar”) like the below screenshot to get credit**
 
 
-![Picture 1](screenshots/Picture1.png) 
+![Picture 1](screenshots/picture1.png) 
 
 
 4. On the right hand side of the page, check the “I have read and agree to the following license agreements:” box and click Create. 
 
-![Picture 2](screenshots/Picture2.png) 
+![Picture 2](screenshots/picture2.png) 
 
 5. Next, you’ll be redirected to the Watson Assistant launch page, click on **“Launch Watson Assistant”** to start the service. 
 
-![Picture 3](screenshots/Picture3.png) 
+![Picture 3](screenshots/picture3.png) 
 
 6. A new browser tab will be opened. On the “Welcome to watsonx Assistant” page, type **“My first assistant”** under Assistant Name and click Next.
 
-![Picture 4](screenshots/Picture4.png) 
+![Picture 4](screenshots/picture4.png) 
 7. On the “Personalize your assistant” page, select **“Web”** under “Tell us where your assistant will live”. Under “Which industry do you work in?”, select **“N/A (I am a student)”**. Under “What is your role on the team building the assistant?”, select **“Developer”**. Under “Which statement describes your needs best?” select **“I’m using the product to complete a course or certification”** and click Next.
 
 8. On the “Customize your chat UI” page, just click **Next**. 
