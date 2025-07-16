@@ -49,6 +49,7 @@
 8. On the “Customize your chat UI” page, just click **Next**. 
 
 ![Picture 6](screenshots/picture6.png)
+
 9. On the “Preview your assistant” page, click on **Create.**
 
 ![Picture 7](screenshots/picture7.png)
@@ -58,6 +59,7 @@
 ![Picture 8](screenshots/picture8.png) 
 
 11. Scroll down and click on **“Activate dialog”.** Click on **“Activate dialog”** again on the pop-up.
+
 ![Picture 9](screenshots/picture9.png)  
 
 12. On the side bar, click on the new Dialog button.
@@ -89,9 +91,13 @@
 ![Picture 14](screenshots/picture14.png) 
 
 2. On the “Preview assistant” page, click on **“Customize web chat”**.
+
+
 ![Picture 15](screenshots/picture15.png)
 
 3. Select the **“Home screen”** tab and switch the setting from on to off. 
+
+
 ![Picture 16](screenshots/picture16.png)
 
 4. Back on the “Preview assistant” page, you can see how your chatbot will look to users on the right hand side. Copy the URL generated under **“Copy link to share”** to send it out to users. 
